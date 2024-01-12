@@ -20,12 +20,12 @@ Ensure you have the following prerequisites before getting started:
 
 ## Preview 
 
-![Positive Review] 
+Positive prediction
 
 <img width="960" alt="Screenshot 2024-01-12 232502" src="https://github.com/pranav-js670/Movie-Review-Sentiment-Analysis/assets/126190055/4fa9fa4d-d84b-4543-84aa-60ceec240af2">
 
 
-![Negative Review] 
+Negative prediction
 
 <img width="960" alt="Screenshot 2024-01-12 232543" src="https://github.com/pranav-js670/Movie-Review-Sentiment-Analysis/assets/126190055/e9e68b18-c56d-4f6c-9c75-5e527e155348">
 
