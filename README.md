@@ -2,7 +2,7 @@
 
 This irepository hosts an interactive Streamlit web application that classifies movie reviews as expressing positive or negative sentiment. It uses a machine learning model trained on the IMDb movie review dataset.
 
-## 
+## Prerequisites
 Ensure you have the following prerequisites before getting started:
 
 - Python 3.x
